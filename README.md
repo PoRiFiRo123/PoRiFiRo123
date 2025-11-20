@@ -14,7 +14,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=00ff41&labelColor=0d1117)](mailto:nishitkirani2020@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=00ff41&labelColor=0d1117)](https://linkedin.com/in/nishitrk)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=00ff41&labelColor=0d1117)](https://nishitrk.top)
-[![Nutriio](https://img.shields.io/badge/Nutriio-4CAF50?style=flat-square&logo=leaf&logoColor=00ff41&labelColor=0d1117)](https://nutrio.in)
+![Profile Views](https://komarev.com/ghpvc/?username=PoRiFiRo123&label=Views&color=00ff41&style=flat-square)
 
 </div>
 
@@ -105,12 +105,10 @@ APIs_&_Integration:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PoRiFiRo123&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api?username=PoRiFiRo123&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PoRiFiRo123&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=PoRiFiRo123&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41" alt="GitHub Stats" width="49%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PoRiFiRo123&custom_title=SYSTEM%20ACTIVITY%20MATRIX&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area_color=00ff41&area=true&hide_border=true" width="98%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoRiFiRo123&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PoRiFiRo123&custom_title=ACTIVITY%20MATRIX&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area_color=00ff41&area=true&hide_border=true&height=200" width="95%" />
 
 </div>
 
@@ -132,10 +130,6 @@ Status: [ONLINE] | Uptime: 24/7 | Coffee_Level: CRITICAL
 ---
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=PoRiFiRo123&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge" alt="Profile views" />
-
-<br><br>
 
 ```ascii
  _____________________________________________________________
